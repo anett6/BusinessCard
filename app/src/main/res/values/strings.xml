@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="address"><u>Chiswick Business Park, Building 5\nUnit 1B West, 566 Chiswick High Road\nChiswick, London W4 5YA, United Kingdom</u></string>
+    <string name="email_address">info@go-chisou.co.uk</string>
+    <string name="phone_number">+442087470603</string>
+    <string name="information">Gochisou serves some of Japan`s most popular dishes including katsu curry, sushi bento, gyoza and yakitori.</string>
+    <string name="opening_hours"><![CDATA[Mon - Fri: 9:00 - 17:00\nSat - Sun \& Bank Holidays: Closed]]></string>
+    <string name="business_name">Gochisou</string>
+</resources>
